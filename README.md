@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the University Of Code daily coding challenge as part of my 2nd 100 days of code challenge. To review my progress, please check out my Twitter account and my GitHub repo. [Twitter Link Here](https://twitter.com/marcotsang112) [GitHub Repo Link Here](https://github.com/hkmarcoot/100-days-of-code-2nd/tree/main/universityOfCode)
-- 🌱 I'm the co-creator of Calendar EventTemplates: You can find the add-on in the Google Workspace Marketplace. [Add-on Link Here](https://workspace.google.com/marketplace/app/calendar_eventtemplates/65028291685)
-- 👯 I was a STEM Tutor and an IT Teaching Assistant day back in my HK life. I have a STEM course on Udemy teaching about game making using the MIT Scratch, which summarises what I learned and taught to students as a STEM Tutor. [Udemy Link Here](https://www.udemy.com/course/scratch-3-learn-by-17-games-with-4-tactics/)
-- 📫 You can find me on LinkedIn [LinkedIn Link Here](https://www.linkedin.com/in/marco-tsang112)
+- 🔭 I’m currently working on the University Of Code daily coding challenge as part of my 2nd 100 days of code challenge. To review my progress, please check out my [Twitter account](https://twitter.com/marcotsang112) and my [GitHub repo](https://github.com/hkmarcoot/100-days-of-code-2nd/tree/main/universityOfCode).  
+- 🌱 I'm the co-creator of Calendar EventTemplates: You can find [the add-on in the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/calendar_eventtemplates/65028291685). 
+- 👯 I was a STEM Tutor and an IT Teaching Assistant day back in my HK life. I have a [STEM course on Udemy](https://www.udemy.com/course/scratch-3-learn-by-17-games-with-4-tactics/) teaching about game making using the MIT Scratch, which summarises what I learned and taught to students as a STEM Tutor. 
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/marco-tsang112). 
 <!--
 **hkmarcoot/hkmarcoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
